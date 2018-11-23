@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\paul\desktop\projet c jeremy wassim\rocket_launcher\rocketlauncher\rocketlauncher\main.c(43): warning C4098: 'Render': 'void' function returning a value
+c:\users\paul\desktop\projet c jeremy wassim\rocket_launcher\rocketlauncher\rocketlauncher\main.c(47): warning C4026: function declared with formal parameter list
+  RocketLauncher.vcxproj -> C:\Users\Paul\Desktop\projet c jeremy wassim\Rocket_Launcher\RocketLauncher\x64\Debug\RocketLauncher.exe
+  RocketLauncher.vcxproj -> C:\Users\Paul\Desktop\projet c jeremy wassim\Rocket_Launcher\RocketLauncher\x64\Debug\RocketLauncher.pdb (Full PDB)
